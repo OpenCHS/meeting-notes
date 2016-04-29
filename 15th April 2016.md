@@ -5,10 +5,10 @@
 
 
 #### Things to Discuss
-Discuss the spike on decision support approach
-Brief update from JSS trip
-Next item to develop after Decision Support
-database spike
+* Discuss the spike on decision support approach
+* Database spike
+* Brief update from JSS trip
+* Next item to develop after Decision Support
 
 #### Meeting Notes
 ##### Spike on decision support
